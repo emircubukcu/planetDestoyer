@@ -1,7 +1,7 @@
 # PLANETDESTROYER
 Javascript 2D game
 ## Oyuna Ulaşım şekli
-Oyuna siteden ya da dosyaları indirip index.html dosyasını tarayıcınızda açarak erişebilirsiniz.
+Oyuna [siteden] ya da dosyaları indirip index.html dosyasını tarayıcınızda açarak erişebilirsiniz.
 ## Oynanış
 Oyunda uzay gemisini kontrol etmek için WASD tuşları kullanılıyor.
 
@@ -26,3 +26,4 @@ Meteorlar tek vuruşta yok olup size 5 puan kazandırırken gezegenler boyutlar�
 
 
 Eğer 100 puanı geçerseniz mermileriniz gezegenleri delip geçmeye başlıyor.
+[siteden]:http://planetdestroyer.freeoda.com/
