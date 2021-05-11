@@ -3,5 +3,5 @@ Javascript 2D game
 ## Oyuna Ulaşım şekli
 Oyuna siteden ya da dosyaları indirip index.html dosyasını tarayıcınızda açarak erişebilirsiniz.
 
-[MyImage]emircubukcu.github.com/planetDestroyer/resim/player.png
+[MyImage](emircubukcu.github.com/planetDestroyer/resim/player.png)
 
