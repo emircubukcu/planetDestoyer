@@ -5,4 +5,4 @@ Oyuna siteden ya da dosyaları indirip index.html dosyasını tarayıcınızda a
 
 ![alt text][logo]
 
-[logo]:https://github.com/emircubukcu/planetDestroyer/raw/master/src/common/resim/player.png "Hi"
+[logo]:https://github.com/emircubukcu/planetDestoyer/blob/main/resim/player.png "Hi"
