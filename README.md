@@ -10,16 +10,16 @@ Oyunda uzay gemisini kontrol etmek için WASD tuşları kullanılıyor.
 
 
 
-Gezegenlere ateş etmek için ise farenin sol tıklama tuşu kullanılıyor.Büyük gezegenleri parçalamak zor olduğu için birden fazla vurmanız gerekiyor.
+Gezegenlere ateş etmek için ise farenin sol tıklama tuşu kullanılıyor.Büyük gezegenleri parçalamak zor olduğu için birden fazla vuruş kullanmanız gerekmektedir.
 
 
-Meteorlar tek vuruşta yok olup size 5 puan kazandırırken gezegenler boyutları farketmeksizin 1 puan vermektedir.
+Meteorlar tek vuruşta yok olup size beşer puan kazandırırken gezegenler boyutları fark etmeksizin birer puan vermektedir.
 
 ![alt text](https://github.com/emircubukcu/planetDestoyer/blob/main/resim/SS2.png "Game")
 
 
 
-Çok zor durumda kalırsanız E tuşuna basarak etraftaki gezegenler ve meteoru yok edebilirsiniz.Bunun karşılığında 10 puanınız gidiyor.
+Çok zor durumda kalırsanız E tuşuna basarak etraftaki gezegenler ve meteorları yok edebilirsiniz.Bunun sonucunda 10 puan kaybedersiniz.
 
 ![alt text](https://github.com/emircubukcu/planetDestoyer/blob/main/resim/SS3.png "Game")
 
